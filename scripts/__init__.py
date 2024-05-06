@@ -1,0 +1,1 @@
+from .price_script import price
